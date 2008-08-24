@@ -1,0 +1,9 @@
+Changelog for garbas.watermark
+
+    (name of developer listed in brackets)
+
+garbas.watermark - 1.0 Unreleased
+
+    - Initial package structure.
+      [zopeskel]
+
